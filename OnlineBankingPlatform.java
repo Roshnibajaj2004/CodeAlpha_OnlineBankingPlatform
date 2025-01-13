@@ -1,6 +1,6 @@
 //Task - 2 
 
-//Online Quiz Platform
+//Online Banking Platform
 
 /*A Simple Banking Application in Java is an ideal project
 for coding beginners. It covers fundamental concepts
